@@ -38,7 +38,7 @@ bash
 Copy code
 # Start frontend server
 cd frontend
-npm start
+npm run dev
 
 # Start backend server
 cd backend
